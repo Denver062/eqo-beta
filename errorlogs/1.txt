@@ -1,0 +1,77 @@
+GET /_next/static/webpack/190bf69b2b9bec2b.webpack.hot-update.json 404 in 3708ms
+ GET /_next/static/webpack/190bf69b2b9bec2b.webpack.hot-update.json 404 in 3696ms
+ GET / 200 in 3733ms
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET / 200 in 279ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 245ms
+ ✓ Compiled /api/tts in 223ms (149 modules)
+file:///home/toast12/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4/eqo/node_modules/google-auth-library/build/src/auth/googleauth.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: TypeError [ERR_INVALID_ARG_TYPE]: The "payload" argument must be of type object. Received null
+file:///home/toast12/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4/eqo/node_modules/google-gax/build/src/grpc.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: TypeError [ERR_INVALID_ARG_TYPE]: The "payload" argument must be of type object. Received null
+Error synthesizing speech: [Error: The file at /google-cloud-key.json does not exist, or it is not a file. ENOENT: no such file or directory, lstat '/google-cloud-key.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/google-cloud-key.json'
+}
+ POST /api/tts 500 in 682ms
+file:///home/toast12/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4/eqo/node_modules/google-auth-library/build/src/auth/googleauth.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: TypeError [ERR_INVALID_ARG_TYPE]: The "payload" argument must be of type object. Received null
+file:///home/toast12/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4/eqo/node_modules/google-gax/build/src/grpc.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: TypeError [ERR_INVALID_ARG_TYPE]: The "payload" argument must be of type object. Received null
+[Error: The file at /google-cloud-key.json does not exist, or it is not a file. ENOENT: no such file or directory, lstat '/google-cloud-key.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/google-cloud-key.json'
+}
+file:///home/toast12/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4/eqo/node_modules/google-auth-library/build/src/auth/googleauth.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: TypeError [ERR_INVALID_ARG_TYPE]: The "payload" argument must be of type object. Received null
+file:///home/toast12/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4/eqo/node_modules/google-gax/build/src/grpc.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: TypeError [ERR_INVALID_ARG_TYPE]: The "payload" argument must be of type object. Received null
+ ⨯ unhandledRejection: [Error: The file at /google-cloud-key.json does not exist, or it is not a file. ENOENT: no such file or directory, lstat '/google-cloud-key.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/google-cloud-key.json'
+}
+file:///home/toast12/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4/eqo/node_modules/google-auth-library/build/src/auth/googleauth.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: TypeError [ERR_INVALID_ARG_TYPE]: The "payload" argument must be of type object. Received null
+file:///home/toast12/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4/eqo/node_modules/google-gax/build/src/grpc.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: TypeError [ERR_INVALID_ARG_TYPE]: The "payload" argument must be of type object. Received null
+ ⨯ unhandledRejection:  [Error: The file at /google-cloud-key.json does not exist, or it is not a file. ENOENT: no such file or directory, lstat '/google-cloud-key.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/google-cloud-key.json'
+}
+file:///home/toast12/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4/eqo/node_modules/google-auth-library/build/src/auth/googleauth.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: TypeError [ERR_INVALID_ARG_TYPE]: The "payload" argument must be of type object. Received null
+file:///home/toast12/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4/eqo/node_modules/google-gax/build/src/grpc.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: TypeError [ERR_INVALID_ARG_TYPE]: The "payload" argument must be of type object. Received null
+Error synthesizing speech: [Error: The file at /google-cloud-key.json does not exist, or it is not a file. ENOENT: no such file or directory, lstat '/google-cloud-key.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/google-cloud-key.json'
+}
+ POST /api/tts 500 in 6ms
+file:///home/toast12/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4/eqo/node_modules/google-auth-library/build/src/auth/googleauth.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: TypeError [ERR_INVALID_ARG_TYPE]: The "payload" argument must be of type object. Received null
+file:///home/toast12/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4/eqo/node_modules/google-gax/build/src/grpc.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: TypeError [ERR_INVALID_ARG_TYPE]: The "payload" argument must be of type object. Received null
+[Error: The file at /google-cloud-key.json does not exist, or it is not a file. ENOENT: no such file or directory, lstat '/google-cloud-key.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/google-cloud-key.json'
+}
+file:///home/toast12/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4/eqo/node_modules/google-auth-library/build/src/auth/googleauth.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: TypeError [ERR_INVALID_ARG_TYPE]: The "payload" argument must be of type object. Received null
+file:///home/toast12/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4/eqo/node_modules/google-gax/build/src/grpc.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: TypeError [ERR_INVALID_ARG_TYPE]: The "payload" argument must be of type object. Received null
+ ⨯ unhandledRejection: [Error: The file at /google-cloud-key.json does not exist, or it is not a file. ENOENT: no such file or directory, lstat '/google-cloud-key.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/google-cloud-key.json'
+}
+file:///home/toast12/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4/eqo/node_modules/google-auth-library/build/src/auth/googleauth.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: TypeError [ERR_INVALID_ARG_TYPE]: The "payload" argument must be of type object. Received null
+file:///home/toast12/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4/eqo/node_modules/google-gax/build/src/grpc.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: TypeError [ERR_INVALID_ARG_TYPE]: The "payload" argument must be of type object. Received null
+ ⨯ unhandledRejection:  [Error: The file at /google-cloud-key.json does not exist, or it is not a file. ENOENT: no such file or directory, lstat '/google-cloud-key.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/google-cloud-key.json'
+}
+
+
+

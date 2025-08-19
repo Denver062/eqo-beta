@@ -1,0 +1,63 @@
+.statusBox {
+	position: fixed;
+	right: 16px;
+	bottom: 16px;
+	background: rgba(0, 0, 0, 0.6);
+	color: #fff;
+	padding: 8px 10px;
+	border-radius: 8px;
+	font-size: 12px;
+	z-index: 1000;
+	backdrop-filter: blur(4px);
+}
+
+.row {
+	display: flex;
+	align-items: center;
+	gap: 6px;
+	justify-content: space-between;
+	min-width: 140px;
+}
+
+.detail {
+	margin: 2px 0 6px 14px;
+	opacity: 0.9;
+}
+
+.json {
+	margin: 4px 0 8px 0;
+	max-height: 200px;
+	overflow: auto;
+	background: rgba(255, 255, 255, 0.06);
+	padding: 6px;
+	border-radius: 6px;
+}
+
+.rawToggle {
+	position: absolute;
+	top: 6px;
+	right: 8px;
+	opacity: 0.8;
+}
+
+.dot {
+	width: 8px;
+	height: 8px;
+	border-radius: 50%;
+	display: inline-block;
+	margin-right: 6px;
+}
+
+.ok {
+	background: #22c55e;
+}
+
+.ng {
+	background: #ef4444;
+}
+
+.dim {
+	opacity: 0.75;
+}
+
+
